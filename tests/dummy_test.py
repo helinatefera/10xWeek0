@@ -14,4 +14,5 @@ class TestDummy(unittest.TestCase):
         """
         A dummy test to prevent pytest from failing when no tests are defined.
         """
-        self.assertTrue(True)
+        dummy = True
+        self.assertTrue(dummy)
