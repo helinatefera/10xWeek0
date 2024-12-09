@@ -130,3 +130,7 @@ The goal of this Exploratory Data Analysis (EDA) is to understand the dataset, u
 
 ### Wind Conditions (WS, WSgust):
 - **Wind Speed and Gusts**: Windspeed (WS) and gust values (WSgust) show weak correlations (~0.2-0.4) with solar irradiance metrics, as expected. Wind does not directly affect solar radiation but may influence cooling rates for the sensors.
+
+### **Conclusion**
+
+Benin has been identified as the optimal location for solar energy deployment, driven by its high levels of solar radiation and relatively stable climatic conditions. The analysis underscores the importance of regular sensor cleaning to maintain optimal performance and ensure accurate data collection. Additionally, seasonal trends, including variations in solar irradiance and temperature, should be considered when planning and maintaining solar systems to maximize efficiency and sustainability.
