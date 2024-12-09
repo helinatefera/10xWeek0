@@ -98,4 +98,5 @@ All distributions exhibit positive skewness, with the majority of readings clust
 **Wind Conditions (WS, `WSgust`):** Windspeed (`WS`) and gusts (`WSgust`) are weakly correlated with solar irradiance metrics (~0.2-0.4), which is expected since wind does not directly affect solar radiation but may influence cooling rates for sensors.
 
 ### **Conclusion**
-Benin is identified as the optimal location for solar energy deployment, with significant potential for solar farm development due to its high levels of solar radiation and relatively stable climatic conditions. The analysis highlights the importance of regular sensor cleaning to ensure optimal performance, as well as seasonal trends that should be considered for system planning and maintenance.
+
+Benin has been identified as the optimal location for solar energy deployment, driven by its high levels of solar radiation and relatively stable climatic conditions. The analysis underscores the importance of regular sensor cleaning to maintain optimal performance and ensure accurate data collection. Additionally, seasonal trends, including variations in solar irradiance and temperature, should be considered when planning and maintaining solar systems to maximize efficiency and sustainability.
