@@ -442,6 +442,7 @@ disable=raw-checker-failed,
         C0301,  # Line too long (handled by Black)
         W0311,  # Bad indentation (aligns with EditorConfig)
         W0611,
+        E501,
 
 # Enable the message, report, category or checker with the given id(s). You can
 # either give multiple identifier separated by comma (,) or put this option
