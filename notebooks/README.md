@@ -49,5 +49,5 @@ The dataset consists of the following key columns:
 - **Wind and Solar Efficiency**: Wind speed shows varying patterns across the regions, which can impact solar panel performance.
   
 ## Conclusion
-This data analysis provides valuable insights into the relationship between environmental factors like humidity, temperature, and solar irradiance. The insights can be used for improving solar energy production efficiency, especially in regions like Benin, Sierra Leone, and Togo.
+This data analysis provides valuable insights into the relationship between environmental factors like humidity, temperature, and solar irradiance. The insights can be used for improving solar energy production efficiency.
 
