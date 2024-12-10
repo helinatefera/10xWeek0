@@ -29,7 +29,16 @@ The structure of the data is as follows:
 - **`Comments`**: This column is designed for any additional notes.
 
 ## **Exploratory Data Analysis (`EDA`)**
-
+<table>
+<tr>
+   <td>
+      <img src="https://github.com/helinatefera/10xWeek0/blob/main/imgs/4.png?raw=true">
+   </td>
+   <td>
+      <img src="https://github.com/helinatefera/10xWeek0/blob/main/imgs/2.png?raw=true">
+   </td>
+</tr>
+</table>
 Performing Exploratory Data Analysis (EDA) analysis to understand the dataset and identify patterns, trends, and relationships between variables.
 
 ### **Summary Statistics**
@@ -90,6 +99,8 @@ All distributions exhibit positive skewness, with the majority of readings clust
    - **Togo:** The effect of cleaning is most pronounced here, with P-value: `5.96e-60`. This result strongly suggests that cleaning substantially improves sensor accuracy, highlighting the importance of regular maintenance.
 
 ### **Correlation Analysis**
+
+![crr](https://github.com/helinatefera/10xWeek0/blob/main/imgs/3.png?raw=true)
 
 **Solar Irradiance Components (`GHI`, `DNI`, `DHI`):** `GHI` is highly correlated with `ModA` and `ModB` (correlation coefficient ~0.99), confirming that these modules are primarily driven by global horizontal irradiance.  `DNI` has a slightly weaker correlation (~0.88) with `ModA` and `ModB`, suggesting that direct irradiance is not the sole determinant of sensor output. `DHI` shows the lowest correlation among solar components (~0.85), indicating a reduced influence of diffuse radiation compared to direct and global irradiance.
 
